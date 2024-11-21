@@ -14,3 +14,10 @@ I am a third-year student at Saint-Petersburg Polytechnic University at the Inst
 * **Languages**: HTML, CSS, JavaScript, Python, C++
 * **Libraries and Frameworks**: React, Django
 * **Technologies**: SASS, BEM, Git, Gulp, Jest
+
+## Education 
+* **Saint-Petersburg Polytechnic University**
+    * _Fundamental informatics and information technology GPA: 4.8/5.0_
+* [The Odin Project](https://www.theodinproject.com/)
+* [**HTML CSS JS** on Stepik](https://stepik.org/course/135466/)
+![Stepik certificate](img/certificate.jpg "Stepik certificate")
