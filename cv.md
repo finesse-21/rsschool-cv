@@ -21,3 +21,6 @@ I am a third-year student at Saint-Petersburg Polytechnic University at the Inst
 * [The Odin Project](https://www.theodinproject.com/)
 * [**HTML CSS JS** on Stepik](https://stepik.org/course/135466/)
 ![Stepik certificate](img/certificate.jpg "Stepik certificate")
+
+## English
+**B2** _Started learning English since 5 years old_
